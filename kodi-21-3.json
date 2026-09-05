@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "id": "kodi-21-3-2026-09-05-01",
+  "title": "Thông báo Kodi 21.3",
+  "message": "Bình Pro xin gửi thông báo đến người dùng Kodi 21.3.",
+  "button_text": "XEM CHI TIẾT",
+  "button_url": "",
+  "close_text": "ĐÓNG",
+  "show_once": true,
+  "dismissible": true
+}

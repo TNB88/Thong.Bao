@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "id": "ro-phim-plus-2026-09-05-01",
+  "title": "Thông báo Rổ Phim+",
+  "message": "Bình Pro xin gửi thông báo đến người dùng Rổ Phim+.",
+  "button_text": "XEM CHI TIẾT",
+  "button_url": "",
+  "close_text": "ĐÓNG",
+  "show_once": true,
+  "dismissible": true
+}

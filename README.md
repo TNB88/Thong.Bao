@@ -1,4 +1,4 @@
-# Thông báo từ xa cho 4 ứng dụng Bình Pro
+# Thông báo từ xa cho các ứng dụng Bình Pro
 
 Mỗi ứng dụng đọc một file JSON riêng. Sửa hoặc bật file nào chỉ ảnh hưởng ứng dụng đó:
 
@@ -8,6 +8,8 @@ Mỗi ứng dụng đọc một file JSON riêng. Sửa hoặc bật file nào c
 | Kodi 21.3 | `kodi-21-3.json` |
 | Phim Rạp | `phim-rap.json` |
 | Phim 4K v2.5.1 | `phim4k-2-5-1.json` |
+| Phim 4K v2.6.1 TorBox + HH3D | `phim4k-2-6-1-torbox-hh3d.json` |
+| Phim 4K v2.6.6 TorBox | `phim4k-2-6-6-torbox.json` |
 
 ## Bật thông báo
 
@@ -33,4 +35,4 @@ Mỗi ứng dụng đọc một file JSON riêng. Sửa hoặc bật file nào c
 - `show_once`: `true` chỉ hiện một lần cho mỗi `id`; `false` hiện lại ở lần khởi động tiến trình tiếp theo.
 - `dismissible`: cho phép đóng bằng nút Back/chạm ngoài hộp thoại.
 
-Mặc định cả bốn file đều `enabled=false`. Không xóa hoặc đổi tên file vì URL đã được khóa trong thư viện native của từng APK.
+Mặc định mọi file đều `enabled=false`. Hai bản Phim4K 2.6.1 và 2.6.6 có file riêng, sửa bản này không ảnh hưởng bản kia. Không xóa hoặc đổi tên file vì URL đã được khóa trong thư viện native của từng APK.

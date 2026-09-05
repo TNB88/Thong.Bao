@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "id": "phim4k-2-6-1-torbox-hh3d-2026-09-05-01",
+  "title": "Thông báo Phim 4K 2.6.1",
+  "message": "Bình Pro xin gửi thông báo đến người dùng Phim 4K 2.6.1 TorBox + HH3D.",
+  "button_text": "XEM CHI TIẾT",
+  "button_url": "",
+  "close_text": "ĐÓNG",
+  "show_once": true,
+  "dismissible": true
+}

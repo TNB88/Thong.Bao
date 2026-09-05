@@ -1,10 +1,10 @@
 {
-  "enabled": false,
-  "id": "ro-phim-plus-2026-09-05-01",
-  "title": "Thông báo Rổ Phim+",
-  "message": "Bình Pro xin gửi thông báo đến người dùng Rổ Phim+.",
+  "enabled": true,
+  "id": "ro-phim-plus-ui-qa-2026-09-05-02",
+  "title": "Rổ Phim+ đã có thông báo mới",
+  "message": "Giao diện thông báo mới của Bình Pro.\n\nNền tối, viền đỏ và nút lớn được tối ưu cho cả điện thoại lẫn remote TV.",
   "button_text": "XEM CHI TIẾT",
-  "button_url": "",
+  "button_url": "https://github.com/TNB88/Thong.Bao",
   "close_text": "ĐÓNG",
   "show_once": true,
   "dismissible": true

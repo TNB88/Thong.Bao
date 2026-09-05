@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "id": "tvq8-2026-09-05-01",
+  "title": "Thông báo TVQ8",
+  "message": "Bình Pro xin gửi thông báo đến người dùng TVQ8.",
+  "button_text": "XEM CHI TIẾT",
+  "button_url": "",
+  "close_text": "ĐÓNG",
+  "show_once": true,
+  "dismissible": true
+}

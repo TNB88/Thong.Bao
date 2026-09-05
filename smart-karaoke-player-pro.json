@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "id": "smart-karaoke-player-pro-2026-09-06-01",
+  "title": "Thông báo Smart Karaoke PRO",
+  "message": "Bình Pro xin gửi thông báo đến người dùng Smart Karaoke Player PRO.",
+  "button_text": "XEM CHI TIẾT",
+  "button_url": "",
+  "close_text": "ĐÓNG",
+  "show_once": true,
+  "dismissible": true
+}

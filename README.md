@@ -7,7 +7,6 @@ Mỗi ứng dụng đọc một file JSON riêng. Sửa hoặc bật file nào c
 | Rổ Phim+ | `ro-phim-plus.json` |
 | Kodi 21.3 | `kodi-21-3.json` |
 | Phim Rạp | `phim-rap.json` |
-| Phim 4K v2.5.1 | `phim4k-2-5-1.json` |
 | Phim 4K v2.6.1 TorBox + HH3D | `phim4k-2-6-1-torbox-hh3d.json` |
 | Phim 4K v2.6.6 TorBox | `phim4k-2-6-6-torbox.json` |
 

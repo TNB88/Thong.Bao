@@ -1,8 +1,8 @@
 {
-  "enabled": false,
-  "id": "phim-rap-2026-09-05-03",
+  "enabled": true,
+  "id": "phim-rap-2026-09-05-04",
   "title": "Thông báo Phim Rạp",
-  "message": "Bình Pro xin gửi thông báo đến người dùng Phim Rạp.",
+  "message": "Bình Pro xin gửi thông báo đến Trung nứng cặc.",
   "button_text": "XEM CHI TIẾT",
   "button_url": "",
   "close_text": "ĐÓNG",

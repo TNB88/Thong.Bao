@@ -9,6 +9,7 @@ Mỗi ứng dụng đọc một file JSON riêng. Sửa hoặc bật file nào c
 | Phim Rạp | `phim-rap.json` |
 | Phim 4K v2.6.1 TorBox + HH3D | `phim4k-2-6-1-torbox-hh3d.json` |
 | Phim 4K v2.6.6 TorBox | `phim4k-2-6-6-torbox.json` |
+| Phim 4K v2.6.8 TorBox | `phim4k-2-6-8-torbox.json` |
 | TVQ8 1.0.10 v58 | `tvq8.json` |
 | Smart Karaoke Player PRO 3.56 | `smart-karaoke-player-pro.json` |
 

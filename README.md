@@ -13,6 +13,7 @@ Mỗi ứng dụng đọc một file JSON riêng. Sửa hoặc bật file nào c
 | Phim 4K v2.8.2 TorBox + HH3D | `phim4k-2-8-2-torbox-hh3d.json` |
 | TVQ8 1.0.10 v58 | `tvq8.json` |
 | Smart Karaoke Player PRO 3.56 | `smart-karaoke-player-pro.json` |
+| Amazing KTV 8.1.23 TV | `amazing-ktv.json` |
 
 ## Bật thông báo
 
@@ -38,4 +39,4 @@ Mỗi ứng dụng đọc một file JSON riêng. Sửa hoặc bật file nào c
 - `show_once`: `true` chỉ hiện một lần cho mỗi `id`; `false` hiện lại ở lần khởi động tiến trình tiếp theo.
 - `dismissible`: cho phép đóng bằng nút Back/chạm ngoài hộp thoại.
 
-Mỗi app có file riêng; sửa file nào chỉ ảnh hưởng app đó. TVQ8 dùng `tvq8.json`, Smart Karaoke Player PRO dùng `smart-karaoke-player-pro.json`. Không xóa hoặc đổi tên file vì URL đã được khóa trong thư viện native của từng APK.
+Mỗi app có file riêng; sửa file nào chỉ ảnh hưởng app đó. TVQ8 dùng `tvq8.json`, Smart Karaoke Player PRO dùng `smart-karaoke-player-pro.json`, Amazing KTV dùng `amazing-ktv.json`. Không xóa hoặc đổi tên file vì URL đã được khóa trong thư viện native của từng APK.
